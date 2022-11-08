@@ -1,0 +1,14 @@
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\bin\Debug\BasedeDatosSQLite.exe.config
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\bin\Debug\BasedeDatosSQLite.exe
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\bin\Debug\BasedeDatosSQLite.pdb
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.Form1.resources
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.Properties.Resources.resources
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.csproj.CopyComplete
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.exe
+C:\Users\Alumno\Downloads\BasedeDatosSQLite\BasedeDatosSQLite\obj\Debug\BasedeDatosSQLite.pdb
